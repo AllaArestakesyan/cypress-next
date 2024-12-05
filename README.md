@@ -1,1 +1,1 @@
-## cypress nextJs
+## cypress next Js
